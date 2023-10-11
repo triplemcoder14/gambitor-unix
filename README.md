@@ -3,7 +3,7 @@
 
 ### To use this script you are required to have:
 
-1.Use a linux distro
+1. Use a linux distro
 2 Have sudo privileges
 3 Locate the $PATH folder
 4. Watch him do the magic
